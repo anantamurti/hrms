@@ -30,4 +30,4 @@ sections = ["FUTURE", "STDLIB", "THIRDPARTY", "FRAPPE", "ERPNEXT", "HRMS", "FIRS
 
 [tool.bench.frappe-dependencies]
 frappe = { git = "https://github.com/anantamurti/frappe.git", branch = "frappe-psa" }
-erpnext = { git = "https://github.com/anantamurti/erpnext.git", branch = "erpnext-psa" }
+erpnext = { git = "https://github.com/anantamurti/frappe-erpnext.git", branch = "erpnext-psa" }
